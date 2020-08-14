@@ -11,6 +11,8 @@ h2 {
 
 p {
     font-family: sans-serif;
+    background-color: cornflowerblue;
+    line-height: initial;
 }
 
 ul {
