@@ -1,0 +1,14 @@
+{
+     "powershell.codeFormatting.pipelineIndentationStyle": "IncreaseIndentationAfterEveryPipeline",
+     "editor.letterSpacing": 1,
+     "terminal.integrated.letterSpacing": 1,
+     "editor.insertSpaces": false,
+     "editor.wrappingIndent": "indent",
+     "html.format.indentHandlebars": true,
+     "html.format.indentInnerHtml": true,
+     "markdown.preview.breaks": true,
+     "search.smartCase": true,
+     "search.useGlobalIgnoreFiles": true,
+     "editor.find.autoFindInSelection": "multiline",
+     "search.showLineNumbers": true
+}
