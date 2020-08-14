@@ -1,12 +1,17 @@
-h1 {
+.introduction {
     color: burlywood;
     text-align: justify;
 }
 
-h2 {
+.upgrade {
     color: green;
     font-style: oblique;
     text-align: justify;
+}
+
+.fashion-styles {
+    font-style: italic;
+    text-indent: 20px;
 }
 
 p {
