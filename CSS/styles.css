@@ -14,6 +14,10 @@
     text-indent: 20px;
 }
 
+img {
+    float: left;
+}
+
 p {
     font-family: sans-serif;
     background-color: cornflowerblue;
