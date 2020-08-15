@@ -1,10 +1,16 @@
+head {
+    font-size: 100px;
+    text-indent: 50px;
+    text-align: center;
+}
+
 body {
     h1 color-adjust: border-block-style;
 }
 
 .introduction {
     color: burlywood;
-    text-align: justify;
+    text-align: center;
 }
 
 .upgrade {
