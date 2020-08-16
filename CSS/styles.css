@@ -1,35 +1,44 @@
-h1 {
-    color-adjust: border-block-style;
-}
-
-.introduction {
-    color: burlywood;
-    text-align: center;
-}
-
-.upgrade {
-    color: green;
-    font-style: oblique;
-    text-align: justify;
-}
-
-.fashion-styles {
-    font-style: italic;
-    text-indent: 20px;
-}
-
-img {
-    display: inline-block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-p {
-    font-family: sans-serif;
-    background-color: cornflowerblue;
-    line-height: initial;
-}
-
-ul {
-    line-height: 50px;
-}
+            h1,
+            h2,
+            h3 {
+                color-adjust: border-block-style;
+                text-align: center;
+            }
+            
+            .introduction {
+                color: burlywood;
+                text-align: justify;
+            }
+            
+            .upgrade {
+                font-style: oblique;
+                text-align: left;
+            }
+            
+            .fashion-styles {
+                font-style: italic;
+                text-indent: 20px;
+            }
+            
+            img {
+                display: inline-block;
+                margin-left: auto;
+                margin-right: auto;
+            }
+            
+            p {
+                font-family: sans-serif;
+                line-height: initial;
+                font-family: italic;
+                font-size-adjust: 20px;
+            }
+            
+            ul {
+                line-height: 50px;
+            }
+            
+            body {
+                background-color: darkolivegreen;
+                text-justify: auto;
+                font-family: fantasy;
+            }
