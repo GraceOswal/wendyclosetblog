@@ -19,7 +19,9 @@ h1 {
 }
 
 img {
-    float: left;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 p {
