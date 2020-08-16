@@ -1,0 +1,16 @@
+           h1h2h3 {
+               text-align: center;
+               font-style: italic;
+               color: seagreen;
+           }
+           
+           body {
+               background-color: lightslategray;
+           }
+           
+           .floatright {
+               display: box;
+               margin-left: 20px;
+               margin-right: 20px;
+               float: right;
+           }
